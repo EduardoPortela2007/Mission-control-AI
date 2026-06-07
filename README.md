@@ -21,9 +21,9 @@ Tecnologias Utilizadas:
 
 Demonstração:                      
 
-![Dados da missão](assets/print_normal.png)                                   
+![Dados da missão](assets/print_normal.png.jpeg)                                   
 
-![Alerta crítico](assets/print_critico.png)                                   
+![Alerta crítico](assets/print_critico.png.jpeg)                                   
 
 Como Executar:
 
