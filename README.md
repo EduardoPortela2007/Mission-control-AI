@@ -21,9 +21,9 @@ Tecnologias Utilizadas:
 
 Demonstração:                      
 
-![Sistema Funcionando](assets/print_normal.png)                                   
+![Dados da missão](assets/print_normal.png)                                   
 
-![Situação Crítica](assets/print_critico.png)                                   
+![Alerta crítico](assets/print_critico.png)                                   
 
 Como Executar:
 
